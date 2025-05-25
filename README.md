@@ -85,7 +85,7 @@
       </picture>
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoysarker-bd&" alt="tonmoysarker-bd" />
+      
     </td>
   </tr>
 </table>
