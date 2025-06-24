@@ -37,9 +37,14 @@ I'm a passionate Full Stack Web Developer with expertise in modern web technolog
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 ### Backend
-![Express.js](https://img.shields.io/badge/express.js-6DA55F?style=for-the-badge&logo=express.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=json&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -57,15 +62,13 @@ I'm a passionate Full Stack Web Developer with expertise in modern web technolog
       <td>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoysarker-bd&theme=radical" alt="Tonmoy's streak stats" />
       </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoysarker-bd&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
   </table>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=tonmoysarker-bd&theme=radical&row=2&column=3" alt="Tonmoy's trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tonmoysarker-bd&theme=radical" alt="Tonmoy's trophies" />
 </div>
 
 ## 🌐 Connect With Me
