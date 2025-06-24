@@ -82,7 +82,7 @@ I'm a passionate Full Stack Web Developer with expertise in modern web technolog
   </table>
 
   <!-- Bottom - Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=tonmoysarker-bd&theme=dark&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tonmoysarker-bd&theme=dark&row=1&column=6&margin-w=15" alt="Trophies" />
 
 </div>
 
