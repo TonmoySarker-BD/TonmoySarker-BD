@@ -59,10 +59,10 @@ I'm a passionate Full Stack Web Developer with expertise in modern web technolog
   <table>
     <tr>
       <td>
-        <img height="165" src="https://github-readme-stats.vercel.app/api?username=TonmoySarker-BD&show_icons=true&theme=radical" alt="Stats">
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=TonmoySarker-BD&show_icons=true&theme=dark" alt="Stats">
       </td>
       <td>
-        <img height="165" src="https://streak-stats.demolab.com?user=TonmoySarker-BD&theme=radical" alt="Streak">
+        <img height="165" src="https://streak-stats.demolab.com?user=TonmoySarker-BD&theme=dark" alt="Streak">
       </td>
     </tr>
   </table>
@@ -72,21 +72,19 @@ I'm a passionate Full Stack Web Developer with expertise in modern web technolog
     <tr>
       <!-- Profile Details -->
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonmoysarker-bd&theme=radical" width="100%" alt="Profile Details" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonmoysarker-bd&theme=dark" alt="Profile Details" />
       </td>
       <!-- Top Languages -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoysarker-bd&layout=compact&theme=radical" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoysarker-bd&layout=compact&theme=dark" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <!-- Bottom - Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=tonmoysarker-bd&theme=radical&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tonmoysarker-bd&theme=dark&row=1&column=6" alt="Trophies" />
 
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TonmoySarker-BD&theme=green-nur)](https://git.io/streak-stats)
 
 ## 🌐 Connect With Me
 
