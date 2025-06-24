@@ -1,91 +1,87 @@
-<img src="https://github.com/TonmoySarkerTnu/TonmoySarkerTnu/blob/main/assets/banner-tonmoysarker.gif"> 
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=tonmoysarker-bd&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoysarker-bd" /> </p>
-
-<div>
-    <h1 align="center"?
-    <a href="https://git.io/typing-svg">
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=000000&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Tonmoy+Sarker+!;+Welcome+to+My+Github+Profile!" />
-        <h3 align="center"> A passionate frontend Web developer from Bogura, Bangladesh <img align="center" alt="Coding" width="38" src="https://github.com/TonmoySarkerTnu/TonmoySarkerTnu/blob/main/assets/bangladesh-198_256.gif"></h3>
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-    </a>
-   </h1>
-</div> 
-
-
-
-
-
-
-
 <div align="center">
-    
-🌱 I’m currently learning **Full Stack Web Development**
-
-💬 Ask me about **Web Development**
-
-📫 How to reach me **tonmoycsebd@gmail.com**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="left"> <a href="www.tonmoysarker.com"><img src="https://github-profile-trophy.vercel.app/?username=tonmoysarker-bd" alt="tonmoysarker-bd" /></a> </p>
-
-<h3 align="left">My Social Handles :</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/tonmoysarkerbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonmoysarkerbd" height="30" width="40" /></a>
-<a href="https://twitter.com/tonmoysarkerbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonmoysarkerbd" height="30" width="40" /></a>
-<a href="https://fb.com/tonmoysarkerbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tonmoysarkerbd" height="30" width="40" /></a>
-<a href="https://instagram.com/tonmoysarkerbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tonmoysarkerbd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tonmoysarkerbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tonmoysarkerbd" height="30" width="40" /></a>
-<a href="https://discord.gg/tonmoysarkerbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tonmoysarkerbd" height="30" width="40" /></a>
-<a href="https://dev.to/tonmoysarkerbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tonmoysarkertnu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tonmoysarkerbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tonmoysarkerbd" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tonmoysarkerbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tonmoysarkerbd" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tonmoysarkerbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tonmoysarkerbd" height="30" width="40" /></a>
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://img.daisyui.com/images/daisyui/mark-rotating.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>   
+  <img src="https://github.com/TonmoySarkerTnu/TonmoySarkerTnu/blob/main/assets/banner-tonmoysarker.gif?raw=true" alt="Tonmoy Sarker Banner">
+  
+  <p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=tonmoysarker-bd&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoysarker-bd" /> 
   </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonmoysarker-bd&show_icons=true&locale=en&layout=compact" alt="tonmoysarker-bd" /></p>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonmoysarkerbd&show_icons=true&locale=en" alt="tonmoysarkerbd" /></p> -->
+  <!-- Animated Typing Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=500&height=70&lines=Hello+World!;I'm+Tonmoy+Sarker;Full+Stack+Web+Developer" alt="Typing SVG" />
+  </a>
+  
+  <h3 align="center">Passionate Developer from Bogura, Bangladesh <img src="https://github.com/TonmoySarkerTnu/TonmoySarkerTnu/blob/main/assets/bangladesh-198_256.gif?raw=true" width="28"></h3>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
+## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=tonmoysarker-bd&show_icons=true&theme=dark"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=tonmoysarker-bd&show_icons=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=tonmoysarker-bd&show_icons=true" />
-      </picture>
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoysarker-bd&" alt="tonmoysarker-bd" />
-    </td>
-  </tr>
-</table>
+I'm a passionate Full Stack Web Developer with expertise in modern web technologies. I love building responsive, user-friendly applications that solve real-world problems. My journey in programming started with C/C++, and I've since expanded my skills to include the entire web development stack.
+
+- 🔭 Currently working on: Building scalable web applications
+- 🌱 Currently learning: Advanced React patterns and Node.js optimization
+- 👯 Looking to collaborate on: Open source projects
+- 💬 Ask me about: Web development, JavaScript, or tech career advice
+- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+
+## 🛠 Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+
+### Backend
+![Express.js](https://img.shields.io/badge/express.js-6DA55F?style=for-the-badge&logo=express.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonmoysarker-bd&show_icons=true&theme=radical" alt="Tonmoy's GitHub stats" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoysarker-bd&theme=radical" alt="Tonmoy's streak stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoysarker-bd&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=tonmoysarker-bd&theme=radical&row=2&column=3" alt="Tonmoy's trophies" />
+</div>
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonmoysarkerbd)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tonmoysarkerbd)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/tonmoysarkerbd)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/tonmoysarkerbd)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonmoycsebd@gmail.com)
+
+## 📫 How to Reach Me
+- Email: [tonmoycsebd@gmail.com](mailto:tonmoycsebd@gmail.com)
+- Website: [www.tonmoysarker.com](http://www.tonmoysarker.com)
+- LinkedIn: [Tonmoy Sarker](https://linkedin.com/in/tonmoysarkerbd)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <p>Thanks for visiting my profile! Let's connect and build something amazing together.</p>
+</div>
