@@ -66,10 +66,6 @@ I'm a passionate Full Stack Web Developer with expertise in modern web technolog
       <td>
         <img height="180em" src="https://streak-stats.demolab.com/?user=tonmoysarker-bd&theme=radical" alt="Streak" />
       </td>
-      <!-- Top Languages -->
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoysarker-bd&layout=compact&theme=radical" alt="Top Languages" />
-      </td>
     </tr>
   </table>
 
@@ -80,15 +76,15 @@ I'm a passionate Full Stack Web Developer with expertise in modern web technolog
       <td width="50%">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonmoysarker-bd&theme=radical" width="100%" alt="Profile Details" />
       </td>
-      <!-- Most Commit Language -->
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tonmoysarker-bd&theme=radical" width="100%" alt="Most Commit Language" />
+      <!-- Top Languages -->
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoysarker-bd&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <!-- Bottom - Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=tonmoysarker-bd&theme=radical&row=2&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tonmoysarker-bd&theme=radical&row=2&column=3" alt="Trophies" />
 
 </div>
 
