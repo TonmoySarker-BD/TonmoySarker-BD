@@ -74,11 +74,11 @@ I'm a passionate Full Stack Web Developer with expertise in modern web technolog
     <tr>
       <!-- Profile Details -->
       <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonmoysarker-bd&theme=radical" width="100%" alt="Profile Details" />
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonmoysarker-bd&theme=radical" width="100%" alt="Profile Details" />
       </td>
       <!-- Top Languages -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoysarker-bd&layout=compact&theme=radical" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoysarker-bd&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
   </table>
