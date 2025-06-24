@@ -60,13 +60,21 @@ I'm a passionate Full Stack Web Developer with expertise in modern web technolog
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonmoysarker-bd&show_icons=true&theme=radical" alt="Tonmoy's GitHub stats" />
       </td>
       <td>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoysarker-bd&theme=radical" alt="Tonmoy's streak stats" />
-      </td>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoysarker-bd&theme=radical" alt="Tonmoy's GitHub streak" />
       <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoysarker-bd&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonmoysarker-bd&theme=radical" alt="Profile Details" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tonmoysarker-bd&theme=radical" alt="Most Commit Language" />
+      </td>
+    </tr>
   </table>
+  
   
   <img src="https://github-profile-trophy.vercel.app/?username=tonmoysarker-bd&theme=radical" alt="Tonmoy's trophies" />
 </div>
