@@ -54,29 +54,42 @@ I'm a passionate Full Stack Web Developer with expertise in modern web technolog
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+  <!-- Top Row - Main Stats -->
   <table>
     <tr>
+      <!-- Stats Card -->
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonmoysarker-bd&show_icons=true&theme=radical" alt="Tonmoy's GitHub stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonmoysarker-bd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Stats" />
       </td>
+      <!-- Streak Stats - Using alternative URL -->
       <td>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoysarker-bd&theme=radical" alt="Tonmoy's GitHub streak" />
+        <img height="180em" src="https://streak-stats.demolab.com/?user=tonmoysarker-bd&theme=radical" alt="Streak" />
+      </td>
+      <!-- Top Languages -->
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoysarker-bd&layout=compact&theme=radical" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonmoysarker-bd&theme=radical" alt="Profile Details" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tonmoysarker-bd&theme=radical" alt="Most Commit Language" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoysarker-bd&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
   </table>
-  
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=tonmoysarker-bd&theme=radical" alt="Tonmoy's trophies" />
+
+  <!-- Middle Row - Summary Cards -->
+  <table>
+    <tr>
+      <!-- Profile Details -->
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonmoysarker-bd&theme=radical" width="100%" alt="Profile Details" />
+      </td>
+      <!-- Most Commit Language -->
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tonmoysarker-bd&theme=radical" width="100%" alt="Most Commit Language" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Bottom - Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=tonmoysarker-bd&theme=radical&row=2&column=4" alt="Trophies" />
+
 </div>
 
 ## 🌐 Connect With Me
