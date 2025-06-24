@@ -71,12 +71,12 @@ I'm a passionate Full Stack Web Developer with expertise in modern web technolog
   <table>
     <tr>
       <!-- Profile Details -->
-      <td width="50%">
+      <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonmoysarker-bd&theme=radical" width="100%" alt="Profile Details" />
       </td>
       <!-- Top Languages -->
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoysarker-bd&layout=compact&theme=radical" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoysarker-bd&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -85,6 +85,8 @@ I'm a passionate Full Stack Web Developer with expertise in modern web technolog
   <img src="https://github-profile-trophy.vercel.app/?username=tonmoysarker-bd&theme=radical&row=1&column=6" alt="Trophies" />
 
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TonmoySarker-BD&theme=green-nur)](https://git.io/streak-stats)
 
 ## 🌐 Connect With Me
 
