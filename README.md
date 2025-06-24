@@ -55,16 +55,14 @@ I'm a passionate Full Stack Web Developer with expertise in modern web technolog
 
 <div align="center">
   
-  <!-- Top Row - Main Stats -->
+ <!-- Top Row -->
   <table>
     <tr>
-      <!-- Stats Card -->
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonmoysarker-bd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Stats" />
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=TonmoySarker-BD&show_icons=true&theme=radical" alt="Stats">
       </td>
-      <!-- Streak Stats - Using alternative URL -->
       <td>
-        <img height="180em" src="https://streak-stats.demolab.com/?user=tonmoysarker-bd&theme=radical" alt="Streak" />
+        <img height="165" src="https://streak-stats.demolab.com?user=TonmoySarker-BD&theme=radical" alt="Streak">
       </td>
     </tr>
   </table>
@@ -74,7 +72,7 @@ I'm a passionate Full Stack Web Developer with expertise in modern web technolog
     <tr>
       <!-- Profile Details -->
       <td width="50%">
-        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonmoysarker-bd&theme=radical" width="100%" alt="Profile Details" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonmoysarker-bd&theme=radical" width="100%" alt="Profile Details" />
       </td>
       <!-- Top Languages -->
       <td>
