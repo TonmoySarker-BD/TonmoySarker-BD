@@ -78,13 +78,13 @@ I'm a passionate Full Stack Web Developer with expertise in modern web technolog
       </td>
       <!-- Top Languages -->
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoysarker-bd&layout=compact&theme=radical" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoysarker-bd&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <!-- Bottom - Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=tonmoysarker-bd&theme=radical&row=2&column=3" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tonmoysarker-bd&theme=radical&row=1&column=6" alt="Trophies" />
 
 </div>
 
